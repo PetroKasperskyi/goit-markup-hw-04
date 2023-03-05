@@ -182,7 +182,7 @@ body {
   justify-content: center;
   align-items: center;
 
-  padding: 24px 100px;
+  height: 112px;
   background: #f4f4fd;
   border-radius: 4px;
   margin-bottom: 8px;
@@ -300,10 +300,8 @@ body {
   gap: 24px;
 }
 .costumers-item {
-  padding: 16px 32px;
   width: 168px;
   height: 88px;
-  padding: 0;
 }
 .costumers-link {
   display: flex;
